@@ -1,0 +1,6 @@
+-sname app1
+
+-setcookie app1_cookie
+
++K true
++A30
